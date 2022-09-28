@@ -79,6 +79,7 @@ Párrafo 2.
 
 6.-Crea un nuevo documento Markdown en el repositorio.
 
+[carpeta imagenes](./imagenes)
 
 7.-Crea un enlace desde el archivo README.md al nuevo documento que acabas de crear.
 
