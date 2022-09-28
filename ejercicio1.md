@@ -1,6 +1,7 @@
 https://josejuansanchez.org/iaw/taller-markdown/index.html
 <br>
-1.-Crea un repositorio en GitHub que incluya un archivo README.md.<br>
+1.-Crea un repositorio en GitHub que incluya un archivo README.md.
+<br>
 2.-Añade contenido al archivo README.md utilizando todos los elementos de la sintaxis de Markdown que hemos estudiado.
 <br>
 3.- Incluye una imagen al documento que sea un enlace a una URL externa.
