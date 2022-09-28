@@ -69,17 +69,16 @@ Párrafo 1.
 Párrafo 2.
 
 **3.- Incluye una imagen al documento que sea un enlace a una URL externa.**
-![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
+
 
 4.-Crea un directorio llamado images en el repositorio y añade una imagen.
-
+[carpeta imagenes](./imagenes)
 
 5.-Incluye la imagen que has añadido al repositoro dentro del documento.
 ![](./imagenes/harden.png)
 
 6.-Crea un nuevo documento Markdown en el repositorio.
 
-[carpeta imagenes](./imagenes)
 
 7.-Crea un enlace desde el archivo README.md al nuevo documento que acabas de crear.
 
